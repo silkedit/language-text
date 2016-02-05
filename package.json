@@ -1,0 +1,10 @@
+{
+  "name": "language-text",
+  "version": "0.1.0",
+  "description": "Plain Text language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-text.git"
+  },
+  "license": "MIT"
+}
